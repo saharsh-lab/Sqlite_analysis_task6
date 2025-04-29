@@ -1,4 +1,4 @@
-# 📊 Task 6: Sales Trend Analysis Using Aggregations (Data Analyst Internship)
+# 📊 Task 6: Sales Trend Analysis Using Aggregations
 
 This project involves analyzing monthly **sales revenue** and **order volume** using SQL with the `Sales_DataSet.csv` dataset.
 
